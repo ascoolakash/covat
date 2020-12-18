@@ -1,3 +1,3 @@
 # covat
 
-Please open COVAT.ipyinb file.
+Please open COVAT.ipynb file.
